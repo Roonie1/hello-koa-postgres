@@ -1,0 +1,22 @@
+{
+  "name": "hello-koa-postgres",
+  "version": "1.0.0",
+  "description": "koa learning demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Roonie1/hello-koa-postgres.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Roonie1/hello-koa-postgres/issues"
+  },
+  "homepage": "https://github.com/Roonie1/hello-koa-postgres#readme",
+  "dependencies": {
+    "koa": "^2.0.0-alpha.3"
+  }
+}
